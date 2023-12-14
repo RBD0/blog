@@ -1,4 +1,4 @@
 baseURL = 'https://rbd0.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Rahul Dintyala'
 theme = 'hugo-theme-tokiwa'
