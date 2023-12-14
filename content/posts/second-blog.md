@@ -1,7 +1,7 @@
 +++
 title = 'Second Blog'
 date = 2023-12-14T13:43:04+05:30
-draft = false
+draft = true
 math = true
 +++
 
