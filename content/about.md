@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Math enjoyer stuck in a weird engineering programme"
-date = "14-12-2023"
+date = "2023-12-14"
 aliases = ["about-us","about-hugo","contact"]
 author = "RaBh"
 +++
