@@ -1,5 +1,5 @@
 +++
-title = 'What's a group?'
+title = 'What is a group?'
 date = 2023-12-14T13:38:07+05:30
 draft = false 
 math = true
